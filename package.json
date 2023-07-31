@@ -1,0 +1,22 @@
+{
+  "name": "projectbook",
+  "version": "1.0.0",
+  "description": "developing a ecommerce website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "venu2455@gmail.com"
+  },
+  "author": "VenugopalRangu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.4.0",
+    "nodemon": "^3.0.1",
+    "short-unique-id": "^4.4.4"
+  }
+}
